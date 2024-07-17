@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T08:27:16.308Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="hCCsjPKqggfGejX75PTz" version="24.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-17T09:06:50.596Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="pnAVfvsaL-kl87pN-ELJ" version="24.7.0" type="github">
   <diagram name="페이지-1" id="xcKODZznVw-exkeC0J_a">
     <mxGraphModel dx="900" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -216,6 +216,9 @@
             <mxPoint x="200" y="450" as="sourcePoint" />
             <mxPoint x="180" y="430" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="llYaroKgKPZZw-5Z-YXH-63" value="개념적 modeling(ERD)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="341" y="20" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
